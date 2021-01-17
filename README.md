@@ -1,3 +1,7 @@
+# How to support this repository ?
+
+- You can fork this repo and than Pull Request. We are here to review your code. Dont Shy 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
